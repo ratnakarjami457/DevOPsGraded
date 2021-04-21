@@ -8,6 +8,7 @@ public class GradedassignmentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GradedassignmentApplication.class, args);
+		System.out.println("Hello DevOps");
 	}
 
 }
